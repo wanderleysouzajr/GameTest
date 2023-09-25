@@ -1,0 +1,3 @@
+git add imagens/
+git commit -m "Adicionando imagens"
+git push origin main
